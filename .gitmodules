@@ -1,0 +1,6 @@
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/AnhQuan2004/ai_saga_syn.git
+[submodule "backend"]
+	path = backend
+	url = https://github.com/AnhQuan2004/backend_saga.git
